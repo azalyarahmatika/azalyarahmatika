@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Azalya.
+### Hi there 👋 I'm Azalya Rahmatika.
 
 I am a self-taught programmer who loves learning and developing a web-based app. I have experienced to do programming in some languages but the one I enjoy the most is JavaScript.
 
@@ -15,11 +15,8 @@ I am a self-taught programmer who loves learning and developing a web-based app.
 <br><br>
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azalyarahmatika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azalyarahmatika&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/azalyarahmatika">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=azalyarahmatika&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azalyarahmatika&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-### Reach me on
-<a href="https://linkedin.com/in/azalyarahmatika/">LinkedIn</a>
